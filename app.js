@@ -7,7 +7,8 @@ const app = express()
 const allowedOrigins = [
     "http://localhost:5173",
     "http://localhost:8000",
-    "https://photo-frontend-seven.vercel.app"
+    "https://photo-frontend-seven.vercel.app",
+    "https://photo-backend-eta.vercel.app"
 ];
 
 // CORS Middleware for Express
