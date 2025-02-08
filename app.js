@@ -8,7 +8,8 @@ const allowedOrigins = [
     "http://localhost:5173",
     "http://localhost:8000",
     "https://photo-frontend-seven.vercel.app",
-    "https://photo-backend-tawny.vercel.app"
+    "https://photo-backend-tawny.vercel.app",
+    "https://www.dotinternationalindia.com"
 ];
 
 // CORS Middleware for Express
